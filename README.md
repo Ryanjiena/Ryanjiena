@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanjiena" alt="ryanjiena" /> </p>
 
-- 🌱 I’m currently learning **electron, SpringBoot and Shiro.**
+### About
+
+### Work
+
+- 🌱 I’m currently learning **algorithms.**
 
 - 👨‍💻 All of my projects are available at [https://projects.ryanjie.cn](https://projects.ryanjie.cn)
 
@@ -15,15 +19,101 @@
 
 - ⚡ Fun fact **Movie**
 
-<p align="left"><img src="https://devicon.vercel.app/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicon.vercel.app/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicon.vercel.app/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicon.vercel.app/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicon.vercel.app/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicon.vercel.app/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicon.vercel.app/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicon.vercel.app/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> <img src="https://devicon.vercel.app/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicon.vercel.app/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicon.vercel.app/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicon.vercel.app/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicon.vercel.app/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicon.vercel.app/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> <img src="https://devicon.vercel.app/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjiena&layout=compact&theme=radical" /> &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanjiena&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+- 📝 Resume **[http://aj7p68.coding-pages.com](http://aj7p68.coding-pages.com)**
 
 ---
 
+### Skills
+
+#### Languages
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/android.svg" alt="android" width="48" height="48"/> 
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/bash.svg" alt="bash" width="48" height="48"/> 
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/css.svg" alt="css3" width="48" height="48"/> 
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/html.svg" alt="html5" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/java.svg" alt="java" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/javascript.svg" alt="javascript" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/markdown.svg" alt="markdown" width="48" height="48"/>    
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/python.svg" alt="python" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/sql.svg" alt="sql" width="48" height="48"/>    
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/idea.svg" alt="idea" width="48" height="48"/>
+</p>
+
+#### Database
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/mariadb.svg" alt="mariadb" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/mongodb.svg" alt="mongodb" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/mysql.svg" alt="mysql" width="48" height="48"/> 
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/redis.svg" alt="redis" width="48" height="48"/>
+</p>
+
+#### Technologies
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/bootstrap.svg" alt="bootstrap" width="48" height="48"/> 
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/git.svg" alt="git" width="48" height="48"/> 
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/gitee.svg" alt="gitee" width="48" height="48"/> 
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/github.svg" alt="github" width="48" height="48"/>  
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/gitlab.svg" alt="gitlab" width="48" height="48"/>  
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/jquery.svg" alt="jquery" width="48" height="48"/> 
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/linux.svg" alt="linux" width="48" height="48"/> 
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/nginx.svg" alt="nginx" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/nodejs.svg" alt="nodejs" width="48" height="48"/> 
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/rabbitmq.svg" alt="rabbitMQ" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/spring.svg" alt="spring" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/vim.svg" alt="vim" width="48" height="48"/>
+</p>
+
+#### Devops
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/docker.svg" alt="docker" width="48" height="48"/> 
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/kubernetes.svg" alt="kubernetes" width="48" height="48"/> 
+</p>
+
+#### Development
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/adobe-after-effects.svg" alt="after-effects" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/adobe-photoshop.svg
+" alt="photoshop" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/atom.svg" alt="atom" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/centos.svg" alt="centos" width="48" height="48"/>   
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/deepin.svg" alt="deepin" width="48" height="48"/>    
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/idea.svg" alt="idea" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/manjaro.svg" alt="manjaro" width="48" height="48"/>    
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/phpstorm.svg" alt="phpstorm" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/pycharm.svg" alt="pycharm" width="48" height="48"/>    
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/typora.svg" alt="typora" width="48" height="48"/> 
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/vscode.svg" alt="vscode" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/webstorm.svg" alt="webstorm" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/windows.svg" alt="windows" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/windowsterminal.svg" alt="windowsterminal" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/xampp.svg" alt="xampp" width="48" height="48"/>
+</p>
+
+---
+
+### Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjiena&layout=compact&theme=nightowl " />
+<img src="https://github-readme-stats.vercel.app/api?username=ryanjiena&show_icons=true&count_private=true&include_all_commits=true&hide=prs&theme=cobalt" alt="Anurag's github stats" />
+
+---
+
+### Social
+
 <p align="center">
-<a href="https://twitter.com/ryanjiena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ryanjiena" height="30" width="30" /></a>
-<a href="https://fb.com/ryanjiena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ryanjiena" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/ryanjie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ryanjie" height="30" width="30" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/dribbble.svg" alt="ryanjiena" height="32" width="32" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/facebook.svg" alt="ryanjiena" height="32" width="32" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/google.svg" alt="ryanjiena" height="32" width="32" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/leetcode.svg" alt="ryanjie" height="32" width="32" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/pixiv.svg" alt="ryanjiena" height="32" width="32" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/qq.svg" alt="ryanjie" height="32" width="32" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/telegram.svg" alt="ryanjiena" height="32" width="32" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/wechat.svg" alt="ryanjie" height="32" width="32" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/weibo.svg" alt="ryanjie" height="32" width="32" /></a>
+
 </p>
