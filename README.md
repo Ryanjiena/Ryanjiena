@@ -23,6 +23,22 @@
 
 ---
 
+### Reach me
+
+<p align="center">
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/dribbble.svg" alt="ryanjiena" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/facebook.svg" alt="ryanjiena" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/google.svg" alt="ryanjiena" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/leetcode.svg" alt="ryanjie" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/pixiv.svg" alt="ryanjiena" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/qq.svg" alt="ryanjie" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/telegram.svg" alt="ryanjiena" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/wechat.svg" alt="ryanjie" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/weibo.svg" alt="ryanjie" height="32" width="32" /></a>
+</p>
+
+---
+
 ### Skills
 
 #### Languages
@@ -104,18 +120,5 @@
 
 ---
 
-### Social
-
-<p align="center">
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/dribbble.svg" alt="ryanjiena" height="32" width="32" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/facebook.svg" alt="ryanjiena" height="32" width="32" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/google.svg" alt="ryanjiena" height="32" width="32" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/leetcode.svg" alt="ryanjie" height="32" width="32" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/pixiv.svg" alt="ryanjiena" height="32" width="32" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/qq.svg" alt="ryanjie" height="32" width="32" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/telegram.svg" alt="ryanjiena" height="32" width="32" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/wechat.svg" alt="ryanjie" height="32" width="32" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/weibo.svg" alt="ryanjie" height="32" width="32" /></a>
-</p>
-
----
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
