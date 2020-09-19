@@ -121,4 +121,79 @@
 ---
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-582613%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 273 Contributions in the Year 2020
+ > 
+> 📦 282.2 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 116 Public Repositories
+ > 
+> 🔑 15 Private Repositories 
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    171 commits    ███████░░░░░░░░░░░░░░░░░░   29.53% 
+🌆 Daytime    165 commits    ███████░░░░░░░░░░░░░░░░░░   28.5% 
+🌃 Evening    145 commits    ██████░░░░░░░░░░░░░░░░░░░   25.04% 
+🌙 Night      98 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.93%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.5% 
+Tuesday      58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.02% 
+Wednesday    86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
+Thursday     89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
+Friday       95 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.41% 
+Saturday     96 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.58% 
+Sunday       100 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.27%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   26.92% 
+Java                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/Ryanjiena/Ryanjiena/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
