@@ -98,8 +98,8 @@
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjiena&layout=compact&theme=nightowl " />
-<img src="https://github-readme-stats.vercel.app/api?username=ryanjiena&show_icons=true&count_private=true&include_all_commits=true&hide=prs&theme=cobalt" alt="Anurag's github stats" />
+<img align="left" style="display:inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjiena&layout=compact&theme=nightowl " />
+<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api?username=ryanjiena&show_icons=true&count_private=true&include_all_commits=true&hide=prs&theme=cobalt" alt="Anurag's github stats" />
 
 ---
 
