@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ryanjiena, nice to see you.</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanjiena" alt="ryanjiena" /> </p>
+<p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=ryanjiena" alt="ryanjiena" /> 
+	![Waka Readme](https://github.com/Ryanjiena/Ryanjiena/workflows/Waka%20Readme/badge.svg)
+</p>
 
 ### About
 
@@ -114,8 +117,8 @@
 ### Stats
 
 <p align="left">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjiena&layout=compact&theme=nightowl " width="42%" />
-	<img src="https://github-readme-stats.vercel.app/api?username=ryanjiena&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt" alt="Anurag's github stats"  width="50%"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjiena&layout=compact&theme=nightowl" alt="Ryanjiena's github top-langs" width="42%" />
+	<img src="https://github-readme-stats.vercel.app/api?username=ryanjiena&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt" alt="Ryanjiena's github stats"  width="50%"/>
 </p>
 
 ---
