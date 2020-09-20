@@ -3,7 +3,7 @@
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=ryanjiena" alt="ryanjiena" /> 
-	![Waka Readme](https://github.com/Ryanjiena/Ryanjiena/workflows/Waka%20Readme/badge.svg)
+	<img src="https://github.com/Ryanjiena/Ryanjiena/workflows/Waka%20Readme/badge.svg" alt="Waka Readme" /> 
 </p>
 
 ### About
@@ -124,79 +124,70 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 273 Contributions in the Year 2020
- > 
-> 📦 282.2 kB Used in Github's Storage 
- > 
+>
+> 📦 282.2 kB Used in Github's Storage
+>
 > 🚫 Not Opted to Hire
- > 
+>
 > 📜 116 Public Repositories
- > 
-> 🔑 15 Private Repositories 
+>
+> 🔑 15 Private Repositories
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    171 commits    ███████░░░░░░░░░░░░░░░░░░   29.48% 
-🌆 Daytime    166 commits    ███████░░░░░░░░░░░░░░░░░░   28.62% 
-🌃 Evening    145 commits    ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+🌞 Morning    171 commits    ███████░░░░░░░░░░░░░░░░░░   29.48%
+🌆 Daytime    166 commits    ███████░░░░░░░░░░░░░░░░░░   28.62%
+🌃 Evening    145 commits    ██████░░░░░░░░░░░░░░░░░░░   25.0%
 🌙 Night      98 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.9%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.48% 
-Tuesday      58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Wednesday    86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
-Thursday     89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
-Friday       95 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.38% 
-Saturday     96 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.55% 
+Monday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.48%
+Tuesday      58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+Wednesday    86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.83%
+Thursday     89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.34%
+Friday       95 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.38%
+Saturday     96 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.55%
 Sunday       101 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.41%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   26.92% 
-Java                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   26.92%
+Java                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08%
+Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
 HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Ryanjiena/Ryanjiena/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
