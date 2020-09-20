@@ -1,14 +1,10 @@
 name: Waka Readme
 
 on:
-  push:
-    branches: [master]
-  pull_request:
-    branches: [master]
+  workflow_dispatch:
   schedule:
-    - cron: 8 16,4 * * *
-  watch:
-    types: started
+    # Runs at 00:00AM UTC
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
