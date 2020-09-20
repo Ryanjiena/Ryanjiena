@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ryanjiena, nice to see you.</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
-
-[![Ryanjiena](https://komarev.com/ghpvc/?username=ryanjiena&color=blueviolet&style=flat&label=visitors)](https://github.com/Ryanjiena/Ryanjiena)
-[![Build](https://github.com/Ryanjiena/Ryanjiena/workflows/Build/badge.svg?branch=master)](https://github.com/Ryanjiena/Ryanjiena/actions?query=workflow%3ABuild)
-[![Pronouns: He/Him](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Pronouns-He_Him-orange.svg)](https://github.com/Ryanjiena)
-[![Ryanjie Projects](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Projects-Ryanjie-blue.svg)](https://projects.ryanjie.cn)
-[![Ryanjie Resumes](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Resume-Ryanjie-9cf.svg)](http://aj7p68.coding-pages.com)
-[![Editor: VSCode](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Editor-VSCode-1f425f.svg)](https://code.visualstudio.com)
-[![CC0-1.0 License](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Ryanjiena-license.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+<p align="center">
+	<a href="https://github.com/Ryanjiena/Ryanjiena" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=ryanjiena&color=blueviolet&style=flat&label=visitors" alt="Ryanjiena"/></a>
+	<a href="https://github.com/Ryanjiena/Ryanjiena/actions?query=workflow%3ABuild" target="blank"><img align="center" src="https://github.com/Ryanjiena/Ryanjiena/workflows/Build/badge.svg?branch=master" alt="Build"/></a>
+	<a href="https://projects.ryanjie.cn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Projects-Ryanjie-blue.svg" alt="Ryanjie Projects"/></a>
+	<a href="http://aj7p68.coding-pages.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Resume-Ryanjie-9cf.svg" alt="Ryanjie Resumes"/></a>
+	<a href="https://github.com/Ryanjiena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon//Pronouns-He_Him-orange.svg" alt="Pronouns: He/Him"/></a>
+	<a href="https://code.visualstudio.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Editor-VSCode-1f425f.svg" alt="Editor: VSCode"/></a>
+	<a href="https://creativecommons.org/publicdomain/zero/1.0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Ryanjiena-license.svg" alt="CC0-1.0 License"/></a>
+</p>
 
 ### About Me
 
@@ -133,71 +134,70 @@
 ---
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+
+**🐱 My Github Data**
 
 > 🏆 290 Contributions in the Year 2020
- > 
-> 📦 282.2 kB Used in Github's Storage 
- > 
+>
+> 📦 282.2 kB Used in Github's Storage
+>
 > 🚫 Not Opted to Hire
- > 
+>
 > 📜 116 Public Repositories
- > 
-> 🔑 15 Private Repositories 
+>
+> 🔑 15 Private Repositories
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    171 commits    ███████░░░░░░░░░░░░░░░░░░   28.6% 
-🌆 Daytime    184 commits    ███████░░░░░░░░░░░░░░░░░░   30.77% 
-🌃 Evening    145 commits    ██████░░░░░░░░░░░░░░░░░░░   24.25% 
+🌞 Morning    171 commits    ███████░░░░░░░░░░░░░░░░░░   28.6%
+🌆 Daytime    184 commits    ███████░░░░░░░░░░░░░░░░░░   30.77%
+🌃 Evening    145 commits    ██████░░░░░░░░░░░░░░░░░░░   24.25%
 🌙 Night      98 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.2% 
-Tuesday      58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.7% 
-Wednesday    86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
-Thursday     89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
-Friday       95 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.89% 
-Saturday     96 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.05% 
+Monday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.2%
+Tuesday      58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.7%
+Wednesday    86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.38%
+Thursday     89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.88%
+Friday       95 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.89%
+Saturday     96 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.05%
 Sunday       119 commits    █████░░░░░░░░░░░░░░░░░░░░   19.9%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   26.92% 
-Java                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   26.92%
+Java                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08%
+Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
 HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
 
 ```
-
-
 
 <!--END_SECTION:waka-->
