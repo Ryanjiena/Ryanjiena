@@ -3,10 +3,10 @@
 
 [![Ryanjiena](https://komarev.com/ghpvc/?username=ryanjiena&color=blueviolet&style=flat&label=visitors)](https://github.com/Ryanjiena/Ryanjiena)
 [![Build README](https://github.com/Ryanjiena/Ryanjiena/workflows/Build%20Readme/badge.svg)](https://github.com/Ryanjiena/Ryanjiena/actions?query=workflow%3A%22Build+Readme%22)
-[![Pronouns: Programmer/He/Him](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Pronouns-Programmer_He_Him-orange.svg)](https://github.com/Ryanjiena)
+[![Pronouns: He/Him](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Pronouns-He_Him-orange.svg)](https://github.com/Ryanjiena)
 [![Ryanjie Projects](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Projects-Ryanjie-blue.svg)](https://projects.ryanjie.cn)
 [![Ryanjie Resumes](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Resume-Ryanjie-9cf.svg)](http://aj7p68.coding-pages.com)
-[![made-for-VSCode](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com)
+[![Editor: VSCode](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Editor-VSCode-1f425f.svg)](https://code.visualstudio.com)
 [![CC0-1.0 License](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Ryanjiena-license.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ### About Me
