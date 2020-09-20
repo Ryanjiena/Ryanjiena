@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from China</h3>
 
 [![Ryanjiena](https://komarev.com/ghpvc/?username=ryanjiena&color=blueviolet&style=flat&label=visitors)](https://github.com/Ryanjiena/Ryanjiena)
-[![Build](https://github.com/Ryanjiena/Ryanjiena/workflows/Build/badge.svg)](https://github.com/Ryanjiena/Ryanjiena/actions?query=workflow%3A%22Build%22)
+[![Build](https://github.com/Ryanjiena/Ryanjiena/workflows/Build/badge.svg?branch=master)](https://github.com/Ryanjiena/Ryanjiena/actions?query=workflow%3ABuild)
 [![Pronouns: He/Him](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Pronouns-He_Him-orange.svg)](https://github.com/Ryanjiena)
 [![Ryanjie Projects](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Projects-Ryanjie-blue.svg)](https://projects.ryanjie.cn)
 [![Ryanjie Resumes](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Resume-Ryanjie-9cf.svg)](http://aj7p68.coding-pages.com)
