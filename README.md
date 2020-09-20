@@ -12,17 +12,19 @@
 
 - 🌱 I’m currently learning **algorithms.**
 
-- 👨‍💻 All of my projects are available at [https://projects.ryanjie.cn](https://projects.ryanjie.cn)
+- 👨‍💻 All of my projects are available at **[https://projects.ryanjie.cn](https://projects.ryanjie.cn)**
 
-- 📝 I regulary write articles on [https://www.ryanjie.cn](https://www.ryanjie.cn)
+- 📝 I regulary write articles on **[https://www.ryanjie.cn](https://www.ryanjie.cn)**
 
 - 💬 Ask me about **Java, Docker and Github Actions.**
 
 - 📫 How to reach me **ryanjiena@gmail.com**
 
-- ⚡ Fun fact **Movie**
+- 😄 Pronouns: **Programmer/He/Him**
 
-- 📝 Resume **[http://aj7p68.coding-pages.com](http://aj7p68.coding-pages.com)**
+- ⚡ Fun fact **Stay Simple.**
+
+- 📖 Resume **[http://aj7p68.coding-pages.com](http://aj7p68.coding-pages.com)**
 
 ---
 
@@ -44,7 +46,7 @@
 
 ### Skills
 
-#### Languages
+#### Code
 
 <p align="left">
 	<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/android.svg" alt="android" width="48" height="48"/> 
