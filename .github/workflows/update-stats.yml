@@ -1,4 +1,4 @@
-name: Build Readme
+name: Build
 
 on:
   workflow_dispatch:
@@ -9,7 +9,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update README
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
