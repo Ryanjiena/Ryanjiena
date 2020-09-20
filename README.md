@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ryanjiena, nice to see you.</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-<p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=ryanjiena" alt="ryanjiena" /> 
-	<img src="https://github.com/Ryanjiena/Ryanjiena/workflows/Waka%20Readme/badge.svg" alt="Waka Readme" /> 
-</p>
+[![Ryanjiena](https://komarev.com/ghpvc/?username=ryanjiena&color=blueviolet&style=flat)](https://github.com/Ryanjiena/Ryanjiena)
+[![Build README](https://github.com/Ryanjiena/Ryanjiena/workflows/Waka%20Readme/badge.svg)](https://github.com/Ryanjiena/Ryanjiena/actions?query=workflow%3A%22Waka+Readme%22)
+[![Pronouns: Programmer/He/Him](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Pronouns-Programmer_He_Him-orange.svg)](https://github.com/Ryanjiena)
+[![made-for-VSCode](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Made for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
 ### About
 
