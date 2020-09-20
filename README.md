@@ -4,9 +4,14 @@
 [![Ryanjiena](https://komarev.com/ghpvc/?username=ryanjiena&color=blueviolet&style=flat)](https://github.com/Ryanjiena/Ryanjiena)
 [![Build README](https://github.com/Ryanjiena/Ryanjiena/workflows/Waka%20Readme/badge.svg)](https://github.com/Ryanjiena/Ryanjiena/actions?query=workflow%3A%22Waka+Readme%22)
 [![Pronouns: Programmer/He/Him](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Pronouns-Programmer_He_Him-orange.svg)](https://github.com/Ryanjiena)
-[![made-for-VSCode](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Made for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+[![made-for-VSCode](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com)
+[![CC0-1.0 License](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Ryanjiena-license.svg)](https://github.com/Ryanjiena/Ryanjiena)
 
-### About
+### About Me
+
+<p align="left">
+	<a href="https://me.ryanjie.cn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Ryanjiena.svg" alt="Ryanjiena" height="64" width="64" /></a>
+</p>
 
 ### Work
 
