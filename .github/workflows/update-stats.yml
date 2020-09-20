@@ -3,8 +3,9 @@ name: Build Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 00:00AM UTC
     - cron: "0 0,12 * * *"
+  watch:
+    types: started
 
 jobs:
   update-readme:
