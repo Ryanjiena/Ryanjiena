@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ryanjiena, nice to see you.</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-[![Ryanjiena](https://komarev.com/ghpvc/?username=ryanjiena&color=blueviolet&style=flat)](https://github.com/Ryanjiena/Ryanjiena)
-[![Build README](https://github.com/Ryanjiena/Ryanjiena/workflows/Waka%20Readme/badge.svg)](https://github.com/Ryanjiena/Ryanjiena/actions?query=workflow%3A%22Waka+Readme%22)
+[![Ryanjiena](https://komarev.com/ghpvc/?username=ryanjiena&color=blueviolet&style=flat&label=visitors)](https://github.com/Ryanjiena/Ryanjiena)
+[![Build README](https://github.com/Ryanjiena/Ryanjiena/workflows/Build%20Readme/badge.svg)](https://github.com/Ryanjiena/Ryanjiena/actions?query=workflow%3A%22Build+Readme%22)
 [![Pronouns: Programmer/He/Him](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Pronouns-Programmer_He_Him-orange.svg)](https://github.com/Ryanjiena)
+[![Ryanjie Projects](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Projects-Ryanjie-blue.svg)](https://projects.ryanjie.cn)
+[![Ryanjie Resumes](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Resume-Ryanjie-9cf.svg)](http://aj7p68.coding-pages.com)
 [![made-for-VSCode](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com)
-[![CC0-1.0 License](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Ryanjiena-license.svg)](https://github.com/Ryanjiena/Ryanjiena)
+[![CC0-1.0 License](https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Ryanjiena-license.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ### About Me
 
@@ -36,15 +38,16 @@
 ### Reach me
 
 <p align="center">
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/dribbble.svg" alt="ryanjiena" height="32" width="32" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/facebook.svg" alt="ryanjiena" height="32" width="32" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/google.svg" alt="ryanjiena" height="32" width="32" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/leetcode.svg" alt="ryanjie" height="32" width="32" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/pixiv.svg" alt="ryanjiena" height="32" width="32" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/qq.svg" alt="ryanjie" height="32" width="32" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/telegram.svg" alt="ryanjiena" height="32" width="32" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/wechat.svg" alt="ryanjie" height="32" width="32" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/weibo.svg" alt="ryanjie" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/dribbble.svg" alt="dribbble" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/facebook.svg" alt="facebook" height="32" width="32" /></a>
+	<a href="mailto:ryanjiena@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/gmail.svg" alt="gmail" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/google.svg" alt="google" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/leetcode.svg" alt="leetcode" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/pixiv.svg" alt="pixiv" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/qq.svg" alt="qq" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/telegram.svg" alt="telegram" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/wechat.svg" alt="wechat" height="32" width="32" /></a>
+	<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/weibo.svg" alt="weibo" height="32" width="32" /></a>
 </p>
 
 ---
@@ -62,8 +65,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/javascript.svg" alt="javascript" width="48" height="48"/>
 	<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/markdown.svg" alt="markdown" width="48" height="48"/>    
 	<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/python.svg" alt="python" width="48" height="48"/>
-	<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/sql.svg" alt="sql" width="48" height="48"/>    
-	<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/idea.svg" alt="idea" width="48" height="48"/>
+	<img src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/sql.svg" alt="sql" width="48" height="48"/>  
 </p>
 
 #### Database
