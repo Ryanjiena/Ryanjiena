@@ -1,0 +1,119 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://2gwyq.csb.app/
+Subject: codesandbox
+Date: Tue, 22 Sep 2020 14:27:51 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--bpZ1TjArZvZNrnuIjvMgZuwAoL1Wdf5XcxOhMuKfy1----"
+
+
+------MultipartBoundary--bpZ1TjArZvZNrnuIjvMgZuwAoL1Wdf5XcxOhMuKfy1----
+Content-Type: text/html
+Content-ID: <frame-E38F458498B476C3AD28525F487CEBB0@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://2gwyq.csb.app/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-e585029f-571c-40e8-a425-f1fe8d1b5dea@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-a8056cbb-fdfc-44d7=
+-8d77-ced2ae64f3ec@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-2a944faf-55fa-4a9f-8052-e1f8c35b3026@mhtml.blink" /><link=
+ rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-000e3e45-6355-4025-8f=
+23-01ee399630ff@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" h=
+ref=3D"cid:css-b6aa06d7-7c9d-47d0-bed1-184c334c0b94@mhtml.blink" />
+   =20
+   =20
+
+
+
+
+
+   =20
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=
+=3D1.0">
+    <link rel=3D"icon" href=3D"https://2gwyq.csb.app/%3C%=3D%20BASE_URL%20%=
+%3Efavicon.ico">
+    <title>codesandbox</title>
+    <link rel=3D"manifest" href=3D"https://2gwyq.csb.app/manifest.json">
+  </head>
+  <body><div id=3D"app"><div data-v-763db97b=3D"" class=3D"hello"><div data=
+-v-763db97b=3D"" id=3D"demo"><div data-v-763db97b=3D"" id=3D"inner-demo"><h=
+1 data-v-763db97b=3D"" id=3D"inner-demo-2" data-typeit-id=3D"6040964"><br d=
+ata-v-763db97b=3D""><span style=3D"font-family: Segoe UI Emoji">=F0=9F=91=
+=8B</span>&nbsp;Hi!<span>&nbsp;All&nbsp;of&nbsp;my&nbsp;projec</span><span =
+class=3D"ti-cursor disabled" style=3D"display: inline; color: rgb(0, 0, 0);=
+ font: 700 48px Consolas, fixed-width; margin: 0px -15.2px 0px -11.2px;">|<=
+/span></h1></div><canvas class=3D"particles-js-canvas-el" width=3D"1900" he=
+ight=3D"182" style=3D"width: 100%; height: 100%;"></canvas></div><!--functi=
+on (a, b, c, d) { return createElement(vm, a, b, c, d, true); }--></div></d=
+iv>
+ =20
+ =20
+
+
+</body></html>
+------MultipartBoundary--bpZ1TjArZvZNrnuIjvMgZuwAoL1Wdf5XcxOhMuKfy1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e585029f-571c-40e8-a425-f1fe8d1b5dea@mhtml.blink
+
+@charset "utf-8";
+
+#app { font-family: Consolas, fixed-width; -webkit-font-smoothing: antialia=
+sed; text-align: left; color: rgb(44, 62, 80); }
+------MultipartBoundary--bpZ1TjArZvZNrnuIjvMgZuwAoL1Wdf5XcxOhMuKfy1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-a8056cbb-fdfc-44d7-8d77-ced2ae64f3ec@mhtml.blink
+
+@charset "utf-8";
+
+#demo[data-v-763db97b] { width: 100%; height: 20vh; background: url("") whi=
+te; }
+
+#inner-demo[data-v-763db97b] { width: 100%; height: 0%; display: flex; just=
+ify-content: left; color: black; font-size: 1.5em; }
+
+#inner-demo h1[data-v-763db97b] { position: relative; left: 1em; top: 0.75e=
+m; }
+------MultipartBoundary--bpZ1TjArZvZNrnuIjvMgZuwAoL1Wdf5XcxOhMuKfy1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-2a944faf-55fa-4a9f-8052-e1f8c35b3026@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--bpZ1TjArZvZNrnuIjvMgZuwAoL1Wdf5XcxOhMuKfy1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-000e3e45-6355-4025-8f23-01ee399630ff@mhtml.blink
+
+@charset "utf-8";
+
+[data-typeit-id]::before { content: "."; display: inline-block; width: 0px;=
+ visibility: hidden; }
+------MultipartBoundary--bpZ1TjArZvZNrnuIjvMgZuwAoL1Wdf5XcxOhMuKfy1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-b6aa06d7-7c9d-47d0-bed1-184c334c0b94@mhtml.blink
+
+@charset "utf-8";
+
+@keyframes blink-6040964 {=20
+  0% { opacity: 0; }
+  49% { opacity: 0; }
+  50% { opacity: 1; }
+}
+
+[data-typeit-id=3D"6040964"] .ti-cursor { animation: 0.888s ease 0s infinit=
+e normal none running blink-6040964; }
+
+[data-typeit-id=3D"6040964"] .ti-cursor.with-delay { animation-delay: 500ms=
+; }
+
+[data-typeit-id=3D"6040964"] .ti-cursor.disabled { animation: 0s ease 0s 1 =
+normal none running none; }
+------MultipartBoundary--bpZ1TjArZvZNrnuIjvMgZuwAoL1Wdf5XcxOhMuKfy1------

@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryanjiena, nice to see you.</h1>
+
 <h3 align="center">A passionate frontend developer from China</h3>
 <p align="center">
     <a href="https://github.com/Ryanjiena/Ryanjiena" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=ryanjiena&color=blueviolet&style=flat&label=visitors" alt="Ryanjiena"/></a>
@@ -18,21 +19,21 @@
 
 ### Work
 
-- :seedling: 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝚊𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜.**
+- :seedling: I'm currently learning **algorithms**.
 
-- :man_technologist: 𝙰𝚕𝚕 𝚘𝚏 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚛𝚎 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚊𝚝 **[𝚑𝚝𝚝𝚙𝚜://𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.𝚛𝚢𝚊𝚗𝚓𝚒𝚎.𝚌𝚗](𝚑𝚝𝚝𝚙𝚜://𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.𝚛𝚢𝚊𝚗𝚓𝚒𝚎.𝚌𝚗)**
+- :man_technologist: All of my projects are available at **[https://project.ryanje.cn](https://project.ryanje.cn)**.
 
-- :memo: 𝙸 𝚛𝚎𝚐𝚞𝚕𝚊𝚛𝚢 𝚠𝚛𝚒𝚝𝚎 𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚘𝚗 **[𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚛𝚢𝚊𝚗𝚓𝚒𝚎.𝚌𝚗](𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚛𝚢𝚊𝚗𝚓𝚒𝚎.𝚌𝚗)**
+- :memo: I regulary write articles on **[https://www.ryanje.cn](https://www.ryanje.cn)**.
 
-- :speech_balloon: 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝙹𝚊𝚟𝚊, 𝙳𝚘𝚌𝚔𝚎𝚛 𝚊𝚗𝚍 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚘𝚗𝚜.**
+- :speech_balloon: Ask me about **Java, Docker and Github Actions**.
 
-- :closed_mailbox_with_raised_flag: 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 **𝚛𝚢𝚊𝚗𝚓𝚒𝚎𝚗𝚊@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖**
+- :email: How to reach me: **ryanjiena@gmail.com**
 
-- :smile: 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜: **𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛/𝙷𝚎/𝙷𝚒𝚖**
+- :smile: Pronouns: **Programmer/He/Him**
 
-- :zap: 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 **𝚂𝚝𝚊𝚢 𝚂𝚒𝚖𝚙𝚕𝚎.**
+- :zap: Fun fact **Stay Simple.**
 
-- :book: 𝚁𝚎𝚜𝚞𝚖𝚎 **[𝚑𝚝𝚝𝚙://𝚊𝚓𝟽𝚙𝟼𝟾.𝚌𝚘𝚍𝚒𝚗𝚐-𝚙𝚊𝚐𝚎𝚜.𝚌𝚘𝚖](𝚑𝚝𝚝𝚙://𝚊𝚓𝟽𝚙𝟼𝟾.𝚌𝚘𝚍𝚒𝚗𝚐-𝚙𝚊𝚐𝚎𝚜.𝚌𝚘𝚖)**
+- :book: Resume at **[https://resume.ryanje.cn](https://resume.ryanje.cn)**
 
 ---
 
