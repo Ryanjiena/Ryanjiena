@@ -222,3 +222,4 @@ yarn-error.log
 # End of https://www.toptal.com/developers/gitignore/api/jetbrains+all,node,visualstudiocode,vuejs
 
 master_push.ps1
+assets/introduction.vue

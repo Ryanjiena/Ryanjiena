@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ryanjiena, nice to see you.</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ryanjiena, nice to see you.</h1>
+<h3 align="center">A passionate frontend developer from China</h3> -->
 
-<h3 align="center">A passionate frontend developer from China</h3>
+<a href="https://codesandbox.io/s/readme-introgif-9fjo5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/assets/intro.gif" alt="ryanjiena-introduction"/></a>
+
 <p align="center">
     <a href="https://github.com/Ryanjiena/Ryanjiena" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=ryanjiena&color=blueviolet&style=flat&label=visitors" alt="Ryanjiena"/></a>
     <a href="https://github.com/Ryanjiena/Ryanjiena/actions?query=workflow%3ABuild" target="blank"><img align="center" src="https://github.com/Ryanjiena/Ryanjiena/workflows/Build/badge.svg?branch=master" alt="Build"/></a>
