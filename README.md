@@ -139,13 +139,13 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 263 Contributions in the Year 2020
+> 🏆 262 Contributions in the Year 2020
  > 
 > 📦 427.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 117 Public Repositories
+> 📜 116 Public Repositories
  > 
 > 🔑 14 Private Repositories 
 
