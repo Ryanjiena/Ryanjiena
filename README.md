@@ -143,9 +143,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 4,052 Contributions in the Year 2020
+> 🏆 5 Contributions in the Year 2021
  > 
-> 📦 227.2 kB Used in Github's Storage 
+> 📦 229.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -182,7 +182,7 @@ Sunday       83 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  9 hrs 46 mins       █████████████████████████   100.0%
+VS Code                  9 hrs 53 mins       █████████████████████████   100.0%
 
 ```
 
